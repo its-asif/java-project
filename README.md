@@ -8,7 +8,7 @@
 6.	Users can exit the system when they are done with their bookings.
 Overall, the project provides a simple ticket booking system where users can view available movies, check seating availability, and book seats for their desired movie and time slot.
 
-## Summary of the methods used in the code:
+## Summary of the Classes used in the code:
 1.	The **Seat** class represents a seat in the cinema. It has a flag to indicate if it's booked or not. It provides methods to book and unbook seats.
 2.	The **CinemaHall** class represents a cinema hall with its seating arrangement for different time slots. It has methods to create seats, display available seats, and book seats.
 3.	The **Movie** class represents a movie with its details like title, genre, director, duration, and time slot. It provides methods to access movie information.
